@@ -1,7 +1,7 @@
-Input Streams:
-Input streams are used for reading data from an external source.
-In Java, the most common input streams are FileInputStream, BufferedInputStream, and DataInputStream. 
-Here is an example of how to use these streams:
+// Input Streams:
+// Input streams are used for reading data from an external source.
+// In Java, the most common input streams are FileInputStream, BufferedInputStream, and DataInputStream. 
+// Here is an example of how to use these streams:
 
 try {
     // Create a new FileInputStream to read a file
@@ -28,10 +28,10 @@ try {
 
 
 
-Output Streams:
-Output streams are used for writing data to an external source. 
-In Java, the most common output streams are FileOutputStream, BufferedOutputStream, and DataOutputStream. 
-Here is an example of how to use these streams:
+// Output Streams:
+// Output streams are used for writing data to an external source. 
+// In Java, the most common output streams are FileOutputStream, BufferedOutputStream, and DataOutputStream. 
+// Here is an example of how to use these streams:
 
 try {
     // Create a new FileOutputStream to write to a file
